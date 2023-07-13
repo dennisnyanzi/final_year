@@ -1,6 +1,6 @@
 import uvicorn 
 from fastapi import FastAPI
-from depression import Depression
+#from depression import Depression
 import numpy as np
 import pickle
 from sklearn.model_selection import train_test_split
